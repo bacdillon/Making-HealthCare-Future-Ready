@@ -26,7 +26,7 @@ Revolutionizing Data for health care
 
 # Others Business Initiative : 
 # To support the healthcare sector on Disease Outbreak Management
-![alt text](https://github.com/bacdillon/Making-HealthCare-Future-Ready/blob/master/03.JPG)
+![alt text](https://github.com/bacdillon/Making-HealthCare-Future-Ready/blob/master/02.JPG)
 
 # To Reduce the patient’s waiting time in Outpatient Clinics (Appointment)and A&E (Walk-in)
 # To support Healthcare Sector on Equipment Tracking
