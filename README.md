@@ -22,6 +22,7 @@ Revolutionizing Data for health care
 # Business Initiative : 
 # Health Monitoring and Management using IoT and wearables
 ![alt text](https://github.com/bacdillon/Making-HealthCare-Future-Ready/blob/master/01.JPG)
+![alt text](https://github.com/bacdillon/Making-HealthCare-Future-Ready/blob/master/06.JPG)
 
 # Others Business Initiative : 
 # To support the healthcare sector on Disease Outbreak Management
