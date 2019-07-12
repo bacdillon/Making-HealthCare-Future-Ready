@@ -8,7 +8,7 @@ Increasingly, Internet of Things and Big Data opportunity, finding new applicati
 
 # Solution 
 
-A robust, flexible deployment options on-premise or Cloud and secure platform could be set up using Cloudera Enterprise based on Apache Hadoop for IoT platform solution for data management and analytics built on Apache Hadoop to efficiently capture, store, process and more importantly all the data generated from IoT. The platform would link up data sources from various hospitals, public healthcare institutions, clinics, first responders, intermediary service providers such as telecom and mobile networks, on-line portals as part of e-Government, and patient empowerment through using medical wearable devices, social media information exchanges in between providers and other organizations and even allow individuals to contribute data from self-monitoring devices.
+A robust, flexible deployment options on-premise or Cloud and secure platform could be set up using Apache Spark/Cloudera Enterprise based on Apache Hadoop for IoT platform solution for data management and analytics built on Apache Hadoop to efficiently capture, store, process and more importantly all the data generated from IoT. The platform would link up data sources from various hospitals, public healthcare institutions, clinics, first responders, intermediary service providers such as telecom and mobile networks, on-line portals as part of e-Government, and patient empowerment through using medical wearable devices, social media information exchanges in between providers and other organizations and even allow individuals to contribute data from self-monitoring devices.
 	
 # Impact 
 Revolutionizing Data for health care
