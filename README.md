@@ -17,7 +17,7 @@ Revolutionizing Data for health care
 2. Health data sets that are so large and complex that they are difficult to manage with traditional software or hardware, or traditional data management tools. The platform transforms patients’ records into digital storage, could store other types of data, such as patient genomic, and clinical trial data. In addition, the platform could enable other advanced techniques, such as machine learning and graph analytics, to deliver more accurate predictive models that researchers could use to detect change in all kind of diseases symptoms. 
 
 # Business Initiative : Health Monitoring and Management using IoT and wearables
-![alt text](https://github.com/bacdillon/IDENTIFY-PROFESSIONAL/blob/master/01.JPG)
+![alt text](https://github.com/bacdillon/Making-HealthCare-Future-Ready/blob/master/01.JPG)
 
 # Others Business Initiative : 
 # To support the healthcare sector on Disease Outbreak Management
